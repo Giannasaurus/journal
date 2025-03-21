@@ -75,6 +75,7 @@
 - Automating repetitive tasks with Python scripts.
 - Batch processing web content into Markdown.
 - Organizing Markdown files with incremental naming.
+
 ✅ Workflow automation:
 - Pushing web content directly into Notion.
 - Streamlining information archiving.
